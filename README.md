@@ -1,2 +1,2 @@
 # -C-Projects-
-This project shows C++ coding
+This project includes my C++ coding journey
